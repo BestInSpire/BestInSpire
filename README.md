@@ -1,3 +1,3 @@
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BestInSpire&layout=compact" width="%100" height="150px" alt="stats" /><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 </p>
