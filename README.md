@@ -1,4 +1,4 @@
-# Özgür
+# Özgür Öztürk
 
 ### Electrical and Electronics Engineering Student | Embedded Systems & Semiconductor Enthusiast
 
