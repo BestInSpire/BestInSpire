@@ -45,6 +45,6 @@ I am an Electrical and Electronics Engineering student with a deep passion for t
 <p align="left">
   <a href="https://linkedin.com/in/özgür-öztürk-a3071325a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile" height="30" width="40" /></a>
   <a href="https://twitter.com/bestlnspire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My Twitter Profile" height="30" width="40" /></a>
-    <a href="https://twitter.com/ozguroztrkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Twitter Profile" height="30" width="40" /></a>
+    <a href="https://instagram.com/ozguroztrkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Twitter Profile" height="30" width="40" /></a>
 
 </p>
